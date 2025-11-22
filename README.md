@@ -4,6 +4,9 @@
 Create a REST API specification that follows Financial Data Exchange (FDX) standards.
 The API should manage a customer’s financial accounts and related resources.
 
+https://medium.com/another-integration-blog/mulesoft-mcp-build-an-ai-agent-with-anypoint-platform-apis-4c775340f61c
+
+
 Requirements
 - Use FDX-compliant resource names, field names, and data models.
 - Include operations for managing customer accounts, balances, and transactions.
